@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; CatShop</title>
+	<atom:link href="https://lilwhitefoxxx.github.io/WP_CatShop/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lilwhitefoxxx.github.io/WP_CatShop</link>
+	<description></description>
+	<lastBuildDate>Sat, 15 Jun 2024 15:03:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>NVX 155VVA</title>
+		<link>https://lilwhitefoxxx.github.io/WP_CatShop/product/nvx-155vva/</link>
+					<comments>https://lilwhitefoxxx.github.io/WP_CatShop/product/nvx-155vva/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2024 15:03:00 +0000</pubDate>
+				<guid isPermaLink="false">https://lilwhitefoxxx.github.io/WP_CatShop/?post_type=product#038;p=57</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-58" src="https://lilwhitefoxxx.github.io/WP_CatShop/wp-content/uploads/2024/06/2332.png" alt="" width="1051" height="789" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lilwhitefoxxx.github.io/WP_CatShop/product/nvx-155vva/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">57</post-id>	</item>
+	</channel>
+</rss>
