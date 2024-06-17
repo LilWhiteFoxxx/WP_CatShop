@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for CatShop	</title>
-	<atom:link href="https://lilwhitefoxxx.github.io/WP_CatShop/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://lilwhitefoxxx.github.io/WP_CatShop</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://lilwhitefoxxx.github.io/WP_CatShop/2024/06/17/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lilwhitefoxxx.github.io/WP_CatShop/2024/06/17/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Mon, 17 Jun 2024 15:38:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://lilwhitefoxxx.github.io/WP_CatShop/2024/06/17/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
