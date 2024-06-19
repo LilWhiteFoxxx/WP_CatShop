@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>CatShop</title>
+	<title>    CatShop</title>
 	<atom:link href="https://lilwhitefoxxx.github.io/WP_CatShop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lilwhitefoxxx.github.io/WP_CatShop</link>
-	<description></description>
+	<description>#BuyToWin</description>
 	<lastBuildDate>Mon, 17 Jun 2024 15:38:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>https://lilwhitefoxxx.github.io/WP_CatShop/wp-content/uploads/2024/06/cartoon-cat-motorcycle-helmet-riding-motorcycle-generative-ai_901003-110587.jpg</url>
+	<title>    CatShop</title>
+	<link>https://lilwhitefoxxx.github.io/WP_CatShop</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://lilwhitefoxxx.github.io/WP_CatShop/2024/06/17/hello-world/</link>
